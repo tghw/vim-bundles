@@ -16,3 +16,6 @@
 [submodule "supertab"]
 	path = supertab
 	url = https://github.com/ervandew/supertab.git
+[submodule "xoria256.vim"]
+	path = xoria256.vim
+	url = https://github.com/vim-scripts/xoria256.vim.git

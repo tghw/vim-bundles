@@ -31,3 +31,12 @@
 [submodule "django.vim"]
 	path = django.vim
 	url = https://github.com/vim-scripts/django.vim.git
+[submodule "Vim-LaTex"]
+	path = Vim-LaTex
+	url = https://github.com/vim-scripts/LaTeX-Suite-aka-Vim-LaTeX.git
+[submodule "dustjs"]
+	path = dustjs
+	url = git://github.com/jimmyhchan/dustjs.vim.git
+[submodule "vim-ragtag"]
+	path = vim-ragtag
+	url = https://github.com/tpope/vim-ragtag.git

@@ -40,3 +40,6 @@
 [submodule "vim-ragtag"]
 	path = vim-ragtag
 	url = https://github.com/tpope/vim-ragtag.git
+[submodule "openscad.vim"]
+	path = openscad.vim
+	url = https://github.com/vim-scripts/openscad.vim.git

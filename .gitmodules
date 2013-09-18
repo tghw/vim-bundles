@@ -43,3 +43,12 @@
 [submodule "openscad.vim"]
 	path = openscad.vim
 	url = https://github.com/vim-scripts/openscad.vim.git
+[submodule "nerdcommenter"]
+	path = nerdcommenter
+	url = https://github.com/scrooloose/nerdcommenter.git
+[submodule "ack.vim"]
+	path = ack.vim
+	url = https://github.com/mileszs/ack.vim.git
+[submodule "rainbow_parentheses.vim"]
+	path = rainbow_parentheses.vim
+	url = https://github.com/vim-scripts/rainbow_parentheses.vim.git

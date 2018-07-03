@@ -61,3 +61,6 @@
 [submodule "vim-nc"]
 	path = vim-nc
 	url = https://github.com/gregjurman/vim-nc.git
+[submodule "ale"]
+	path = ale
+	url = https://github.com/w0rp/ale.git

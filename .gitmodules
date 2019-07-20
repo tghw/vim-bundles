@@ -58,3 +58,6 @@
 [submodule "vim-ps1"]
 	path = vim-ps1
 	url = https://github.com/PProvost/vim-ps1.git
+[submodule "vim-nc"]
+	path = vim-nc
+	url = https://github.com/gregjurman/vim-nc.git

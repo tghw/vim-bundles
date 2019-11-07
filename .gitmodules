@@ -6,7 +6,7 @@
 	url = https://github.com/cakebaker/scss-syntax.vim.git
 [submodule "syntastic"]
 	path = syntastic
-	url = https://github.com/scrooloose/syntastic.git
+	url = https://github.com/vim-syntastic/syntastic.git
 [submodule "vim-sleuth"]
 	path = vim-sleuth
 	url = https://github.com/tpope/vim-sleuth
